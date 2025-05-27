@@ -78,7 +78,6 @@ PYTHONPATH=. python src/evaluate_v3_final.py \
 | `--prompt_type` | `factual` or `nonfactual`                        |
 | `--model_name`  | e.g., `qwen3_1.7b`                                |
 | `--cp_flag`     | Optional. `cp` or `noncp` (default is `noncp`)   |
-| `--n_offsets`   | Optional. Number of offset files to merge (e.g., 4) |
 
 ---
 
