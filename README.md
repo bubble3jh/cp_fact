@@ -108,4 +108,4 @@ pip install -r requirements.txt
 
 ## 📄 Citation
 
-If you use this pipeline or evaluation protocol, please cite [FactualityPrompt](https://github.com/yujiepan/FactualityPrompt).
+If you use this pipeline or evaluation protocol, please cite <Sorry, research is ongoing!>
